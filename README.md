@@ -15,6 +15,7 @@ Docker is a platform for developing, shipping, and running applications in isola
 3. **Dockerfile**: A script of instructions to build a Docker image.
 4. **Docker Compose**: A tool for defining and managing multi-container applications.
 
+![docker1](https://github.com/user-attachments/assets/58d3191a-f2a7-4409-a935-7ccf380be96d)
 
 
 
