@@ -16,7 +16,6 @@ Docker is a platform for developing, shipping, and running applications in isola
 4. **Docker Compose**: A tool for defining and managing multi-container applications.
 
 
-![docker4](https://github.com/user-attachments/assets/e6f09831-73fc-43f6-943a-0e386e0a58aa)
 
 
 ## Basic Workflow
