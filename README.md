@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-29 at 11 46 50_0fbc4340](https://github.com/user-attachments/assets/134a8365-f644-4f97-94c8-f2573d4fff33)# -Deployment-with-Docker
+# -Deployment-with-Docker
 # Dockerized Web Application
 
 This repository provides an example of how to containerize a simple web application using Docker. Docker enables you to create isolated containers that bundle the application and its dependencies, ensuring consistent behavior across different environments.
