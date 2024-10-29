@@ -1,20 +1,8 @@
-# -Deployment-with-Docker
+![WhatsApp Image 2024-10-29 at 11 46 50_0fbc4340](https://github.com/user-attachments/assets/134a8365-f644-4f97-94c8-f2573d4fff33)# -Deployment-with-Docker
 # Dockerized Web Application
 
 This repository provides an example of how to containerize a simple web application using Docker. Docker enables you to create isolated containers that bundle the application and its dependencies, ensuring consistent behavior across different environments.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Docker Concepts](#key-docker-concepts)
-- [Basic Workflow](#basic-workflow)
-- [Example: Simple Web Application](#example-simple-web-application)
-  - [Dockerfile](#dockerfile)
-  - [Building the Image](#building-the-image)
-  - [Running the Container](#running-the-container)
-- [Additional Docker Commands](#additional-docker-commands)
-
----
 
 ## Overview
 
@@ -26,6 +14,10 @@ Docker is a platform for developing, shipping, and running applications in isola
 2. **Containers**: Running instances of images that operate as isolated processes.
 3. **Dockerfile**: A script of instructions to build a Docker image.
 4. **Docker Compose**: A tool for defining and managing multi-container applications.
+
+
+![docker4](https://github.com/user-attachments/assets/e6f09831-73fc-43f6-943a-0e386e0a58aa)
+
 
 ## Basic Workflow
 
@@ -55,3 +47,12 @@ RUN pip install -r requirements.txt
 
 # Run the application
 CMD ["python", "app.py"]
+
+
+![docker2](https://github.com/user-attachments/assets/426b5e08-5138-4647-b4d1-2b9d0e955fc4)
+
+
+![docker3](https://github.com/user-attachments/assets/4f21a5e1-72f8-411e-90e3-769a3db1a65a)
+
+
+![docker4](https://github.com/user-attachments/assets/454d9e5e-cab2-43fa-b940-8e30d2ec6097)
