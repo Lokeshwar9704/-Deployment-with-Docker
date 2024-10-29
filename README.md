@@ -29,7 +29,20 @@ Docker is a platform for developing, shipping, and running applications in isola
 ## Example: Simple Web Application
 
 ### Dockerfile
+# Use the official lightweight Python image
+FROM python:3.8-slim
 
+# Set the working directory
+WORKDIR /app
+
+# Copy the application files
+COPY . /app
+
+# Install dependencies
+RUN pip install -r requirements.txt
+
+# Run the application
+CMD ["python", "app.py"]
 
 ![docker2](https://github.com/user-attachments/assets/426b5e08-5138-4647-b4d1-2b9d0e955fc4)
 
