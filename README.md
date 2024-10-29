@@ -47,6 +47,7 @@ RUN pip install -r requirements.txt
 # Run the application
 CMD ["python", "app.py"]
 
+```photos
 
 ![docker2](https://github.com/user-attachments/assets/426b5e08-5138-4647-b4d1-2b9d0e955fc4)
 
